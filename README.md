@@ -22,7 +22,7 @@ The output includes a risk-scored findings list and a clear **Safe To Install?**
 ### From the Claude Code Plugin Marketplace
 
 ```
-/install-plugin https://github.com/randy-schneiderman/skill-security-assessment-
+/install-plugin https://github.com/randy-schneiderman/skill-security-assessment
 ```
 
 ### Manual Installation
@@ -30,7 +30,7 @@ The output includes a risk-scored findings list and a clear **Safe To Install?**
 Clone this repo into your Claude Code plugins directory:
 
 ```bash
-git clone https://github.com/randy-schneiderman/skill-security-assessment-.git \
+git clone https://github.com/randy-schneiderman/skill-security-assessment.git \
   ~/.claude/plugins/marketplaces/skill-security-assessment
 ```
 
